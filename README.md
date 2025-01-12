@@ -6,8 +6,6 @@
 
 你可以去下载 release 文件 直接使用 😊
 
-如果需要源码，可以给我发邮件 374755349@qq.com  
-我们可以互相交流学习 awa ~
 ===================================================================================
 Simple Usage Process:  
 1. Select the file you want to encrypt, then encrypt it.  
@@ -17,6 +15,9 @@ Simple Usage Process:
 
 You can download the release file and use it directly. 😊
 
+
+如果需要源码，可以给我发邮件 374755349@qq.com  
+我们可以互相交流学习 awa ~
 
 If you need the source code, feel free to email me at 374755349@qq.com.
 We can exchange ideas and learn from each other. awa ~
